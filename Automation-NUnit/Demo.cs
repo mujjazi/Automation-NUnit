@@ -22,7 +22,7 @@ namespace Automation_NUnit
         [Test]
         public void test()
         {
-            driver.Url = "http://www.google.co.in";
+            driver.Url = "http://www.google.com.pk";
         }
 
         [TearDown]
